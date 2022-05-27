@@ -42,4 +42,4 @@ By building this project i practiced my OOP skills.
 
 ## Acknowledgments
 
-This project was build with help of YouTube channel "Jak nauczyc sie programowania".
+This project was built with help of YouTube channel "Jak nauczyc sie programowania".
